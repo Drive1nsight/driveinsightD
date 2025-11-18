@@ -1,0 +1,45 @@
+{
+  "camera_name": "cz_zlin",
+  "datetime_utc": "2025-10-16T18:21:45+00:00",
+  "location_name": "Zlin, Czech Republic",
+  "road_description": {
+    "road_name": "Tř. Tomáše Bati / Osvoboditelů",
+    "road_type": "Urban Road",
+    "road_condition": "Good",
+    "traffic_density": "Moderate",
+    "road coating": "Asphalt",
+    "configuration": "crossing"
+  },
+  "weather": {
+    "lat": 49.2256,
+    "lon": 17.6687,
+    "timezone": "Europe/Prague",
+    "timezone_offset": 7200,
+    "data": [
+      {
+        "dt": 1760638905,
+        "sunrise": 1760591488,
+        "sunset": 1760630277,
+        "temp": 11.07,
+        "feels_like": 9.83,
+        "pressure": 1022,
+        "humidity": 61,
+        "dew_point": 3.84,
+        "uvi": 0,
+        "clouds": 94,
+        "visibility": 10000,
+        "wind_speed": 1.35,
+        "wind_deg": 204,
+        "wind_gust": 1.36,
+        "weather": [
+          {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+          }
+        ]
+      }
+    ]
+  }
+}

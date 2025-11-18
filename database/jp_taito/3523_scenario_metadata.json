@@ -1,0 +1,45 @@
+{
+  "camera_name": "jp_taito",
+  "datetime_utc": "2025-10-07T15:51:32+00:00",
+  "location_name": "Taito, Tokyo, Japan",
+  "road_description": {
+    "road_name": "Meiji-dori Ave / Minowa Crossing Gate",
+    "road_type": "Urban Road",
+    "road_condition": "Good",
+    "traffic_density": "High",
+    "road coating": "Asphalt",
+    "configuration": "crossing"
+  },
+  "weather": {
+    "lat": 35.7301,
+    "lon": 139.7918,
+    "timezone": "Asia/Tokyo",
+    "timezone_offset": 32400,
+    "data": [
+      {
+        "dt": 1759852292,
+        "sunrise": 1759869658,
+        "sunset": 1759911341,
+        "temp": 21.51,
+        "feels_like": 21.44,
+        "pressure": 1017,
+        "humidity": 66,
+        "dew_point": 14.9,
+        "uvi": 0,
+        "clouds": 99,
+        "visibility": 10000,
+        "wind_speed": 3.92,
+        "wind_deg": 12,
+        "wind_gust": 4.43,
+        "weather": [
+          {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+          }
+        ]
+      }
+    ]
+  }
+}

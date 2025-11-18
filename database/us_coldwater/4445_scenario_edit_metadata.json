@@ -1,0 +1,45 @@
+{
+  "camera_name": "usa_coldwater",
+  "datetime_utc": "2025-10-09T21:52:51+00:00",
+  "location_name": "Coldwater, Michigan, USA",
+  "road_description": {
+    "road_name": "W Chicago str/ OLD US HWY 27",
+    "road_type": "Urban Road",
+    "road_condition": "Good",
+    "traffic_density": "Moderate",
+    "road coating": "Asphalt",
+    "configuration": "crossing"
+  },
+  "weather": {
+    "lat": 41.9406,
+    "lon": -85.0007,
+    "timezone": "America/Detroit",
+    "timezone_offset": -14400,
+    "data": [
+      {
+        "dt": 1760046771,
+        "sunrise": 1760010344,
+        "sunset": 1760051301,
+        "temp": 16.05,
+        "feels_like": 14.52,
+        "pressure": 1028,
+        "humidity": 31,
+        "dew_point": -0.94,
+        "uvi": 0.45,
+        "clouds": 0,
+        "visibility": 10000,
+        "wind_speed": 2.88,
+        "wind_deg": 112,
+        "wind_gust": 3.46,
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+          }
+        ]
+      }
+    ]
+  }
+}
