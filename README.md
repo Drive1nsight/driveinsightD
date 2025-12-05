@@ -1,10 +1,14 @@
-### Usage example
+## Free Open scenario dataset for autonomous driving research
+### Real world scenarios generated from CCTV camera footage
 
-* First, install esmini simulator by running `./set_up.sh`
+- Zlin, Czech Republic - https://www.youtube.com/watch?v=0Ua8_c0Nphg
+- Coldwater, USA - https://www.youtube.com/watch?v=ByED80IKdIU
+- Taito, Japan - https://www.youtube.com/watch?v=2RorUteWpUg
 
-* To run scenario from the folder scenarios:
 
-`/run_scenario.sh scenarios/67f95c72af8b366ab0d72a8b.xosc`
 
-* Or run directly via esmini binary:
-`esmini-demo/bin/esmini --window 60 60 800 400 --osc 67f95c72af8b366ab0d72a57.xosc --custom_fixed_camera 130,20,45,2.45,0.6`
+I. First, install esmini simulator by running `./set_up.sh`
+
+II.To run scenario from the folder database/{folder_name}:
+
+`./run_scenario.sh database/us_coldwater/1732_scenario.xosc`
