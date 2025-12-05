@@ -12,3 +12,7 @@ I. First, install esmini simulator by running `./set_up.sh`
 II.To run scenario from the folder database/{folder_name}:
 
 `./run_scenario.sh database/us_coldwater/1732_scenario.xosc`
+
+
+## Visit our website for more information
+https://driveinsight.io
